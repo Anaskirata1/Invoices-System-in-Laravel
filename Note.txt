@@ -1,0 +1,10 @@
+to run this project use this command
+
+php artisan migrate
+php artisan db:seed --class=PermissionTableSeeder
+php aetisan db:seed --class=CreateAdminUserSeeder
+
+and use this email
+email :aya1@gmail.com
+password:12341234
+
